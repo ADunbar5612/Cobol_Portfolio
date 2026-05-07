@@ -118,6 +118,7 @@ This is a collection of the cobol I've coded throughout the semester.
 ### RPT5000
 **COBOL Sales Report Generator (Enhanced)**
 👤 Author: [Aidan Dunbar](https://github.com/ADunbar5612) | 📅 March 31, 2026
+🔗 [GitHub Repository](https://github.com/ADunbar5612/RPT5000)
 
 - **Short Summary:** An enhanced version of RPT3000 that adds Sales Representative-level control breaks, improved branch totals, and grand total accumulation. Produces a fully structured multi-level YTD sales report with clean formatting and edge case handling.
 - **Technologies Used:**
