@@ -5,14 +5,14 @@ This is a collection of the cobol I've coded throughout the semester.
 
 | Repository | Primary Tech | Category |
 |------------|--------------|----------|
-| [Calc2000](#Calc2000) | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
-| [MovieTracker](#movietracker) | JavaScript | CSC465 Advance Web Development |
-| [RPT1000](#rpt1000) | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
-| [MovieTracker](#movietracker) | JavaScript | CSC465 Advance Web Development |
-| [RPT1000](#rpt1000) | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
-| [MovieTracker](#movietracker) | JavaScript | CSC465 Advance Web Development |
-| [RPT1000](#rpt1000) | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
-| [MovieTracker](#movietracker) | JavaScript | CSC465 Advance Web Development |
+| [CALC2000](#CALC2000)           | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
+| [UTIL2000](#UTIL2000)           | COBOL/JCL | CSC465 Advance Web Development |
+| [RPT1000](#rpt1000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
+| [MovieTracker](#movietracker)   | COBOL/JCL | CSC465 Advance Web Development |
+| [RPT1000](#rpt1000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
+| [MovieTracker](#movietracker)   | COBOL/JCL | CSC465 Advance Web Development |
+| [RPT1000](#rpt1000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
+| [MovieTracker](#movietracker)   | COBOL/JCL | CSC465 Advance Web Development |
 
 
 ---
