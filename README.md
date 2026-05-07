@@ -113,3 +113,23 @@ This is a collection of the cobol I've coded throughout the semester.
 - **Repository Link:** [View RPT3000 on GitHub](https://github.com/ADunbar5612/RPT3002)
 
 [🔼 Back to TOC](#table-of-contents)
+---
+
+### RPT5000
+**COBOL Sales Report Generator (Enhanced)**
+👤 Author: [Aidan Dunbar](https://github.com/ADunbar5612) | 📅 March 31, 2026
+
+- **Short Summary:** An enhanced version of RPT3000 that adds Sales Representative-level control breaks, improved branch totals, and grand total accumulation. Produces a fully structured multi-level YTD sales report with clean formatting and edge case handling.
+- **Technologies Used:**
+  - COBOL (Enterprise COBOL 6.4)
+  - JCL
+  - z/OS Mainframe Environment
+  - Visual Studio Code + Zowe Explorer
+- **Key Learning Concepts:** Multi-level control break logic (SALESREP → BRANCH → Grand Total), `EVALUATE`-based decision handling, switch-based control flow, modular paragraph design, and divide-by-zero protection in financial calculations.
+- **Project Status:** ✅ Completed
+- **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+- **Thumbnail Screenshot:**
+  > `![RPT5000 Screenshot](assets/rpt5000-thumbnail.png)`
+- **Repository Link:** [View RPT5000 on GitHub](https://github.com/ADunbar5612/RPT5000)
+
+[🔼 Back to TOC](#table-of-contents)
