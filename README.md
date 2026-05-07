@@ -77,9 +77,8 @@ This is a collection of the cobol I've coded throughout the semester.
 - **Thumbnail Screenshot:**
   > `![UTIL2000 Screenshot](assets/util2000-thumbnail.png)`
 - **Repository Link:** [View UTIL2000 on GitHub](https://github.com/ADunbar5612/UTIL2000)
+- [🔼 Back to TOC](#table-of-contents)
 
-
-[🔼 Back to TOC](#table-of-contents)
 ---
 
 ### RPT3002
