@@ -111,6 +111,6 @@ This is a collection of the cobol I've coded throughout the semester.
   | `README.md` | Project documentation |
 - **Thumbnail Screenshot:**
   > `![RPT3000 Screenshot](assets/rpt3000-thumbnail.png)`
-- **Repository Link:** [View RPT3000 on GitHub](https://github.com/ADunbar5612/RPT3000)
+- **Repository Link:** [View RPT3000 on GitHub](https://github.com/ADunbar5612/RPT3002)
 
 [🔼 Back to TOC](#table-of-contents)
