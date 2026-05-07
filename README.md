@@ -134,3 +134,34 @@ This is a collection of the cobol I've coded throughout the semester.
 - **Repository Link:** [View RPT5000 on GitHub](https://github.com/ADunbar5612/RPT5000)
 
 [🔼 Back to TOC](#table-of-contents)
+---
+
+### RPT6000
+**COBOL Advanced Table Lookups & Data Internalization**
+👤 Author: [Aidan Dunbar](https://github.com/ADunbar5612)
+🔗 [GitHub Repository](https://github.com/ADunbar5612/RPT6000)
+- **Short Summary:** An enterprise-grade COBOL reporting program that builds on RPT5000 by introducing dynamic table lookups, data internalization via `COPY` members, and advanced memory management. Reads a secondary `SALESREP` file into an internal table to dynamically match rep IDs to names in the final report.
+- **Technologies Used:**
+  - COBOL (Enterprise COBOL 6.4)
+  - JCL
+  - z/OS Mainframe Environment
+  - Visual Studio Code + Zowe Explorer
+  - `COPY` Members (external record definitions)
+- **Key Learning Concepts:** Internal table processing with `OCCURS` and `SEARCH`/`INDEXED BY`, data internalization using `COPY` statements, `PACKED-DECIMAL` (`COMP-3`) for optimized mainframe storage, `REDEFINES` clause for special case handling, `EVALUATE TRUE` structures, and `ON SIZE ERROR` overflow protection.
+- **Key Enhancements over RPT5000:**
+  | Enhancement | Description |
+  |-------------|-------------|
+  | 🔎 Table Lookups | `SEARCH` verb maps SALESREP IDs to names dynamically |
+  | 📦 COPY Members | External record definitions for `CUSTMAST` and `SALESREP` |
+  | ⚡ COMP-3 Fields | `PACKED-DECIMAL` for optimized storage and performance |
+  | 🛡️ REDEFINES | Displays `OVRFLW` or `N/A` when calculations aren't possible |
+  | 🔀 EVALUATE TRUE | Replaces nested IF statements for cleaner control flow |
+- **Project Status:** ✅ Completed
+- **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+- **Thumbnail Screenshot:**
+  > `![RPT6000 Screenshot](assets/rpt6000-thumbnail.png)`
+- **Repository Link:** [View RPT6000 on GitHub](https://github.com/ADunbar5612/RPT6000)
+
+[🔼 Back to TOC](#table-of-contents)
+
+
