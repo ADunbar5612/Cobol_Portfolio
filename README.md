@@ -80,3 +80,37 @@ This is a collection of the cobol I've coded throughout the semester.
 
 
 [🔼 Back to TOC](#table-of-contents)
+---
+
+### RPT3002
+**COBOL Sales Report Generator**
+👤 Authors: [Ben Stearns](https://github.com/bstearns07) & [Aidan Dunbar](https://github.com/ADunbar5612) | 📅 Last Updated: 03/19/2026
+🔗 [GitHub Repository](https://github.com/ADunbar5612/RPT3002)
+
+- **Short Summary:** A COBOL program that reads a customer master file and generates a professionally formatted Year-To-Date (YTD) sales report. Outputs customer details, current and previous year sales, dollar change, percentage change, and grand totals across all customers.
+- **Technologies Used:**
+  - COBOL (Enterprise COBOL 6.4)
+  - JCL
+  - z/OS Mainframe Environment
+  - Visual Studio Code + Zowe Explorer
+  - Partitioned Datasets (PDS)
+- **Key Learning Concepts:** Control-break logic for branch grouping, subtotals and group aggregation, state tracking with control fields, multi-level report design (detail → subtotal → grand total), and edge case handling for divide-by-zero in financial calculations.
+- **New Topics Covered:**
+  - 🔀 Control Break Processing (branch change detection)
+  - 📊 Subtotals & Group Aggregation (branch-level totals)
+  - 🧠 State Tracking using control fields (`OLD-BRANCH-NUMBER`)
+  - 🔄 Conditional Output Formatting (suppressing repeated values)
+  - ➗ Advanced error handling (`ON SIZE ERROR`, divide-by-zero cases)
+- **Project Status:** ✅ Completed
+- **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+- **Files:**
+  | File | Description |
+  |------|-------------|
+  | `RPT3000.cbl` | COBOL source program |
+  | `JCLRPT3.jcl` | JCL used to compile and execute program |
+  | `README.md` | Project documentation |
+- **Thumbnail Screenshot:**
+  > `![RPT3000 Screenshot](assets/rpt3000-thumbnail.png)`
+- **Repository Link:** [View RPT3000 on GitHub](https://github.com/ADunbar5612/RPT3000)
+
+[🔼 Back to TOC](#table-of-contents)
