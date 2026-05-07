@@ -6,13 +6,13 @@ This is a collection of the cobol I've coded throughout the semester.
 | Repository | Primary Tech | Category |
 |------------|--------------|----------|
 | [CALC2000](#CALC2000)           | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
-| [UTIL2000](#UTIL2000)           | COBOL/JCL | CSC465 Advance Web Development |
-| [RPT1000](#rpt1000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
-| [MovieTracker](#movietracker)   | COBOL/JCL | CSC465 Advance Web Development |
-| [RPT1000](#rpt1000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
-| [MovieTracker](#movietracker)   | COBOL/JCL | CSC465 Advance Web Development |
-| [RPT1000](#rpt1000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
-| [MovieTracker](#movietracker)   | COBOL/JCL | CSC465 Advance Web Development |
+| [UTIL2000](#UTIL2000)           | COBOL/JCL | CIS352 Advance Web Development |
+| [RPT2000](#RPT2000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
+| [RPT3002](#RPT3002)             | COBOL/JCL | CSC352 Advance Web Development |
+| [RPT5000](#RPT5000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
+| [RPT6000](#RPT6000)             | COBOL/JCL | CIS352 Advance Web Development |
+| [RPT1000](#SEQ2000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
+
 
 
 ---
@@ -53,18 +53,31 @@ This is a collection of the cobol I've coded throughout the semester.
 
 ---
 
-### MovieTracker
-**JavaScript Web Application**
+### UTIL2000
+**COBOL Utility Billing System**
+👤 Author: Aidan Dunbar
+🔗 [GitHub Profile](https://github.com/ADunbar5612)
 
-- **Short Summary:** 
+- **Short Summary:** A COBOL program that simulates a real-world utility billing system using a three-tier rate model. Processes multiple customer records and calculates electricity charges based on usage, plus a flat service fee.
 - **Technologies Used:**
-  - JavaScript
-  - 
-- **Key Learning Concepts:** 
+  - COBOL
+  - JCL
+  - z/OS Mainframe Environment
+  - ISPF Editor
+  - SDSF (job output monitoring)
+- **Key Learning Concepts:** Conditional logic and tier segmentation, multi-record processing, fixed-value data initialization, mainframe dataset and member management, ISPF terminal workflow, and GitHub version control.
 - **Project Status:** ✅ Completed
-- **Course / Self-Project:** CSC465 Advance Web Development
+- **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+- **Billing Structure:**
+  | Tier | Usage Range | Rate |
+  |------|-------------|------|
+  | Tier 1 | First 500 kWh | $0.12/kWh |
+  | Tier 2 | 501–1000 kWh | $0.15/kWh |
+  | Tier 3 | Above 1000 kWh | $0.18/kWh |
+  | Service Fee | Flat rate | $14.95/customer |
 - **Thumbnail Screenshot:**
-  > `![MovieTracker Screenshot](assets/movietracker-thumbnail.png)`
-- **Repository Link:** [View MovieTracker on GitHub](#)
+  > `![UTIL2000 Screenshot](assets/util2000-thumbnail.png)`
+- **Repository Link:** [View UTIL2000 on GitHub](https://github.com/ADunbar5612/UTIL2000)
+
 
 [🔼 Back to TOC](#table-of-contents)
