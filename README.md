@@ -58,7 +58,7 @@
 ### UTIL2000
 **COBOL Utility Billing System**
 👤 Author: Aidan Dunbar
-- **Repository Link:** [View UTIL2000 on GitHub](https://github.com/ADunbar5612/UTIL2000)
+
 
 - **Short Summary:** A COBOL program that simulates a real-world utility billing system using a three-tier rate model. Processes multiple customer records and calculates electricity charges based on usage, plus a flat service fee.
 - **Technologies Used:**
