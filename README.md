@@ -164,4 +164,37 @@ This is a collection of the cobol I've coded throughout the semester.
 
 [🔼 Back to TOC](#table-of-contents)
 
+---
+
+### SEQ3002
+**COBOL Sequential File Maintenance System**
+👤 Authors: [Violet French](https://github.com/Pirategirl9000) & [Aidan Dunbar](https://github.com/ADunbar5612)
+🔗 [GitHub Repository](https://github.com/ADunbar5612/SEQ3002)
+
+- **Short Summary:** A COBOL program that uses sequential file processing to update an employee master record. Reads a transaction file (`EMPTRAN`) to apply changes to the old master (`OLDEMP`), writing successful updates to `NEWEMP` and logging errors to `ERRTRAN`. Includes a VSAM version of the same workflow.
+- **Technologies Used:**
+  - COBOL
+  - JCL
+  - z/OS Mainframe Environment
+  - VSAM (Virtual Storage Access Method)
+- **Key Learning Concepts:** Sequential file maintenance, multi-file coordination (input + output + error files), VSAM file conversion and processing, error handling and error logging, and file-based transaction processing.
+- **File Structure:**
+  | File | Type | Description |
+  |------|------|-------------|
+  | `OLDEMP` | Input | Old employee master records |
+  | `EMPTRAN` | Input | Transaction changes to apply |
+  | `NEWEMP` | Output | Successfully updated records |
+  | `ERRTRAN` | Output | Errors from sequential processing |
+  | `ERRTRAN4` | Output | Errors from VSAM processing |
+  | `JCLSEQ3` | JCL | Runs sequential version |
+  | `JCLEMP1` | JCL | Converts sequential file to VSAM |
+  | `JCLEMP02` | JCL | Runs VSAM version |
+- **Project Status:** ✅ Completed
+- **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
+- **Thumbnail Screenshot:**
+  > `![SEQ3002 Screenshot](assets/seq3002-thumbnail.png)`
+- **Repository Link:** [View SEQ3002 on GitHub](https://github.com/ADunbar5612/SEQ3002)
+
+[🔼 Back to TOC](#table-of-contents)
+
 
