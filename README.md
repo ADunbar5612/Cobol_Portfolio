@@ -7,7 +7,7 @@ This is a collection of the cobol I've coded throughout the semester.
 |------------|--------------|----------|
 | [CALC2000](#CALC2000)           | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
 | [UTIL2000](#UTIL2000)           | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
-| [RPT3002](#RPT3002)             | COBOL/JCL | CSC352 Introduction to Enterprise Computing |
+| [RPT3002](#RPT3002)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
 | [RPT5000](#RPT5000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
 | [RPT6000](#RPT6000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
 | [RPT1000](#SEQ2000)             | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
