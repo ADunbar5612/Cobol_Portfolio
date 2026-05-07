@@ -1,3 +1,4 @@
+<img width="295" height="732" alt="Util2000" src="https://github.com/user-attachments/assets/2c779318-8564-43f9-b5cb-d8dfbeaa813e" />
 # Cobol_Portfolio
 This is a collection of the cobol I've coded throughout the semester.
 
@@ -192,7 +193,13 @@ This is a collection of the cobol I've coded throughout the semester.
 - **Project Status:** ✅ Completed
 - **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 - **Thumbnail Screenshot:**
-  > `![SEQ3002 Screenshot](assets/seq3002-thumbnail.png)`
+- **VSAM Output** — 4 records processed successfully, condition code 0
+  ![VSAM Output](assets/VSAMOutput.png)
+
+  **ERRTRAN Output** — Error log showing invalid transaction codes and unmatched records
+  ![ERRTRAN Output](assets/ERRTRANOutput.png)
+
+ 
 - **Repository Link:** [View SEQ3002 on GitHub](https://github.com/ADunbar5612/SEQ3002)
 
 [🔼 Back to TOC](#table-of-contents)
