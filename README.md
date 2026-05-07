@@ -1,4 +1,4 @@
-<img width="295" height="732" alt="Util2000" src="https://github.com/user-attachments/assets/2c779318-8564-43f9-b5cb-d8dfbeaa813e" />
+
 # Cobol_Portfolio
 This is a collection of the cobol I've coded throughout the semester.
 
@@ -44,7 +44,9 @@ This is a collection of the cobol I've coded throughout the semester.
 - **Files:**
   - `CALC2000.cbl` – COBOL source program
   - **Thumbnail Screenshot:**
-  > `![CALC2000 Screenshot](assets/calc2000-thumbnail.png)`
+  <img width="454" height="498" alt="CALC2000" src="https://github.com/user-attachments/assets/d597e7fc-3c32-4281-a9e5-bafb803fc9e3" />
+
+
 - **Repository Link:** [View CALC2000 on GitHub](https://github.com/ADunbar5612/Chapter1COBOLCalc)
 
 
@@ -76,7 +78,7 @@ This is a collection of the cobol I've coded throughout the semester.
   | Tier 3 | Above 1000 kWh | $0.18/kWh |
   | Service Fee | Flat rate | $14.95/customer |
 - **Thumbnail Screenshot:**
-  > `![UTIL2000 Screenshot](assets/util2000-thumbnail.png)`
+  <img width="295" height="732" alt="Util2000" src="https://github.com/user-attachments/assets/bc4a1ae2-6587-431c-a9d9-a621700b3528" />
 - **Repository Link:** [View UTIL2000 on GitHub](https://github.com/ADunbar5612/UTIL2000)
 - [🔼 Back to TOC](#table-of-contents)
 
@@ -110,7 +112,7 @@ This is a collection of the cobol I've coded throughout the semester.
   | `JCLRPT3.jcl` | JCL used to compile and execute program |
   | `README.md` | Project documentation |
 - **Thumbnail Screenshot:**
-  > `![RPT3000 Screenshot](assets/rpt3000-thumbnail.png)`
+  <img width="759" height="607" alt="outputRPT3000" src="https://github.com/user-attachments/assets/6102a804-a1f2-4fdb-b0dc-cc4ea7c22fd1" />
 - **Repository Link:** [View RPT3000 on GitHub](https://github.com/ADunbar5612/RPT3002)
 
 [🔼 Back to TOC](#table-of-contents)
@@ -131,7 +133,7 @@ This is a collection of the cobol I've coded throughout the semester.
 - **Project Status:** ✅ Completed
 - **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 - **Thumbnail Screenshot:**
-  > `![RPT5000 Screenshot](assets/rpt5000-thumbnail.png)`
+  <img width="747" height="850" alt="Chapter 5" src="https://github.com/user-attachments/assets/a8e8744b-d782-4462-a868-139a02871f60" />
 - **Repository Link:** [View RPT5000 on GitHub](https://github.com/ADunbar5612/RPT5000)
 
 [🔼 Back to TOC](#table-of-contents)
@@ -160,7 +162,7 @@ This is a collection of the cobol I've coded throughout the semester.
 - **Project Status:** ✅ Completed
 - **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 - **Thumbnail Screenshot:**
-  > `![RPT6000 Screenshot](assets/rpt6000-thumbnail.png)`
+  <img width="1920" height="1032" alt="Rpt6000" src="https://github.com/user-attachments/assets/e1439a4f-1d8f-4c19-87fd-884a594e875b" />
 - **Repository Link:** [View RPT6000 on GitHub](https://github.com/ADunbar5612/RPT6000)
 
 [🔼 Back to TOC](#table-of-contents)
