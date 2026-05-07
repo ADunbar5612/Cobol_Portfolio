@@ -1,1 +1,6 @@
 
+ **VSAM Output** — 4 records processed successfully, condition code 0
+  ![VSAM Output](assets/VSAMOutput.png)
+
+  **ERRTRAN Output** — Error log showing invalid transaction codes and unmatched records
+  ![ERRTRAN Output](assets/ERRTRANOutput.png
