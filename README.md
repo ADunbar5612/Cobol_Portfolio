@@ -1,5 +1,9 @@
 # Cobol_Portfolio
 This is a collection of the cobol I've coded throughout the semester.
 
+## 📋 Table of Contents
 
-<img width="1440" height="1354" alt="image" src="https://github.com/user-attachments/assets/76f15834-658e-40a0-8620-f6cd010097dd" />
+| Repository | Primary Tech | Category |
+|------------|--------------|----------|
+| [RPT1000](#rpt1000) | COBOL/JCL | CIS352 Introduction to Enterprise Computing |
+| [MovieTracker](#movietracker) | JavaScript | CSC465 Advance Web Development |
